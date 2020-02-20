@@ -1,0 +1,11 @@
+{
+  "name": "arcgisjs-mapbox-vector-tile-server-usage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Mete Ercan Pakdil",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
